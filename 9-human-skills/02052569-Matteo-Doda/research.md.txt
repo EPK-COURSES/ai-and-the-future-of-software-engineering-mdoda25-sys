@@ -1,0 +1,10 @@
+# Research Summary
+
+The article "AI in Education, Sustainability, and the Future of Work: An Integrative Review of Industry 5.0, Education 5.0, and Work 5.0" examines how artificial intelligence, education, and the workplace are evolving together within the framework of the 5.0 era. The authors conducted an integrative literature review of 62 selected sources from academic databases and policy organizations, including UNESCO, the European Commission, and the World Economic Forum.
+
+The study explores the relationship between three major concepts: Industry 5.0, Education 5.0, and Work 5.0. Industry 5.0 focuses on human-centered technological innovation where AI and automation support rather than replace people. Education 5.0 emphasizes preparing learners with technical, creative, and critical-thinking skills needed in a rapidly changing digital world. Work 5.0 promotes the creation of quality jobs where technology improves working conditions, productivity, and employee well-being.
+
+The review identifies three key themes. The first is human-AI collaboration, highlighting how humans and intelligent technologies can work together effectively. The second is skills development and lifelong learning, emphasizing the need for education systems to adapt to changing workforce requirements. The third is sustainability and social well-being, demonstrating how environmental responsibility and human welfare should be central goals of technological and economic development.
+
+The authors conclude that successful implementation of the 5.0 paradigm requires collaboration among educational institutions, industries, governments, and workers. They argue that technological advancement should be guided by human values, ethical considerations, and sustainability goals to create a more inclusive and prosperous future.
+
